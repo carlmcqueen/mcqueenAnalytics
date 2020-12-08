@@ -2,7 +2,7 @@
 title: McQueen Analytics
 sections:
   - type: hero_section
-    title: Providing our clients with data sound decision making
+    title: ''
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
