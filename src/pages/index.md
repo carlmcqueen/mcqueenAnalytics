@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: We approach our clients most complex questions with data driven  truth
     subtitle: >-
-      Our goal is to make data driven decision making and machine learning
+      Our goal is to make data-driven decision making and machine learning
       avaialble to all size clients and reproducible solutions the vehicle to
       get there
     actions:
