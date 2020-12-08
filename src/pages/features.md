@@ -15,7 +15,6 @@ sections:
           analysis comes from over ten years of work in large financial
           institutions that scales down to even small, growing organizations.
         align: left
-        image: images/feature.svg
         image_position: right
         actions:
           - label: Learn More
