@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Feature 1
+      - title: Donor Health Study
         content: >-
           McQueen Analytics does deep database analysis on your giving data to
           derive the state of your organization and provide a report to identify
