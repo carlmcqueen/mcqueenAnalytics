@@ -21,7 +21,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Feature 2
+      - title: Analytic Environment Consulting
         content: >-
           Many organizations choose to use turn key solutions for their donor
           and customer tracking that has set KPI outputs. McQueen Analytics can
