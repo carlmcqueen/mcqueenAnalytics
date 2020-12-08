@@ -5,6 +5,7 @@ sections:
     title: Features
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
+    image: images/logo.png
   - type: features_section
     features:
       - title: Feature 1
