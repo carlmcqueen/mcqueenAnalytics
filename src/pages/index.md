@@ -3,7 +3,7 @@ title: McQueen Analytics
 sections:
   - type: hero_section
     title: We approach our clients most complex questions with data driven  truth
-    subtitle: 'Within the noise of the messiest problems our '
+    subtitle: ''
     actions:
       - label: Learn More
         url: /features
