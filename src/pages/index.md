@@ -2,7 +2,7 @@
 title: McQueen Analytics
 sections:
   - type: hero_section
-    title: 'Enabling data driven '
+    title: 'Enabling data driven decision making '
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
