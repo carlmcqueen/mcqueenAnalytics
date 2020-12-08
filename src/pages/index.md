@@ -2,7 +2,7 @@
 title: McQueen Analytics
 sections:
   - type: hero_section
-    title: ''
+    title: We approach
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
