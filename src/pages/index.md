@@ -3,7 +3,9 @@ title: McQueen Analytics
 sections:
   - type: hero_section
     title: We approach our clients most complex questions with data driven  truth
-    subtitle: ''
+    subtitle: >-
+      Our process answers questions and also enables our clients to tackle the
+      repeat complexity going forward
     actions:
       - label: Learn More
         url: /features
