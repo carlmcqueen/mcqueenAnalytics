@@ -5,7 +5,8 @@ sections:
     title: We approach our clients most complex questions with data driven  truth
     subtitle: >-
       Our goal is to make data driven decision making and machine learning
-      avaialble to all size clients and reproducible solutions 
+      avaialble to all size clients and reproducible solutions the vehicle to
+      get there
     actions:
       - label: Learn More
         url: /features
