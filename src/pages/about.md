@@ -27,7 +27,7 @@ sections:
     title: Join the Team
     subtitle: >-
       McQueen Analytics is looking for team members who want to bring data
-      driven 
+      driven insight to clients
     actions:
       - label: Contact Us
         url: /contact
