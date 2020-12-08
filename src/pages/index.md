@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: We approach our clients most complex questions with data driven  truth
     subtitle: >-
-      Our process answers questions and also enables our clients to tackle the
-      repeat complexity going forward with confidence in reproducible ways
+      Our goal is to make data driven decision making and machine learning
+      avaialble to all size clients and 
     actions:
       - label: Learn More
         url: /features
