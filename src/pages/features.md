@@ -23,9 +23,11 @@ sections:
             style: primary
       - title: Feature 2
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Many organizations choose to use turn key solutions for their donor
+          and customer tracking that has set KPI outputs. McQueen Analytics can
+          help create a independent solutions that allows you take back control
+          of your data and get custom insights and trends that can help you meet
+          quarter and end of year goals with clear tracking throughout.
         align: left
         image: images/feature.svg
         image_position: left
