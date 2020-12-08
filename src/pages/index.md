@@ -29,9 +29,11 @@ sections:
     features:
       - title: Donor Health Study
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          McQueen Analytics does deep database analysis on your giving data to
+          derive the state of your organization and provide a report to identify
+          growth, marketing and analytic opportunities going forward.  This
+          analysis comes from over ten years of work in large financial
+          institutions that scales down to even small, growing organizations.
         align: left
         image_position: right
         actions:
