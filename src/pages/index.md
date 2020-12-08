@@ -42,8 +42,8 @@ sections:
             style: secondary
       - title: Analytic Environment Consulting
         content: >-
-          Many organizations turn to turn key solutions for their donor and
-          customer tracking that has set KPI outputs.  McQueen Analytics can
+          Many organizations choose to use turn key solutions for their donor
+          and customer tracking that has set KPI outputs.  McQueen Analytics can
           help create a independent solution that allows you take back control
           of your data and get custom insights and trends that can help you meet
           quarter and end of year goals with clear tracking throughout.
