@@ -22,6 +22,7 @@ sections:
     title: Our Team
     team:
       - src/data/team/dianne-ameter.yaml
+      - src/data/team/person-ub2j2bqps.json
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
