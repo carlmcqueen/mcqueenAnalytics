@@ -2,7 +2,7 @@
 title: McQueen Analytics
 sections:
   - type: hero_section
-    title: We approach
+    title: 'We approach our clients most complex questions with data driven '
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
