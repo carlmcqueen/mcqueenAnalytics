@@ -44,7 +44,7 @@ sections:
         content: >-
           Many organizations choose to use turn key solutions for their donor
           and customer tracking that has set KPI outputs.  McQueen Analytics can
-          help create a independent solution that allows you take back control
+          help create a independent solutions that allows you take back control
           of your data and get custom insights and trends that can help you meet
           quarter and end of year goals with clear tracking throughout.
         align: left
