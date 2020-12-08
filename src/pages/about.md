@@ -25,7 +25,7 @@ sections:
       - src/data/team/person-ub2j2bqps.json
   - type: cta_section
     title: Join the Team
-    subtitle: 'If '
+    subtitle: 'McQueen Analytics is looking for '
     actions:
       - label: Contact Us
         url: /contact
