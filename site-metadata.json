@@ -67,7 +67,15 @@
             }
         ],
         "content": "McQueen Analytics.",
-        "links": []
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            }
+        ]
     },
     "title": "McQueen Analytics"
 }
