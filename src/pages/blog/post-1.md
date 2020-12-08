@@ -1,6 +1,6 @@
 ---
 title: Introducing McQueen Analytics During An Interesting Year
-date: '2020-01-16'
+date: '2020-12-08'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
