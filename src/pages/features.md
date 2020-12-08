@@ -28,7 +28,6 @@ sections:
           of your data and get custom insights and trends that can help you meet
           quarter and end of year goals with clear tracking throughout.
         align: left
-        image: images/feature.svg
         image_position: left
         actions:
           - label: Learn More
