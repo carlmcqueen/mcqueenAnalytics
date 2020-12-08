@@ -2,7 +2,7 @@
 title: McQueen Analytics
 sections:
   - type: hero_section
-    title: ''
+    title: 'Providing our clients with '
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
