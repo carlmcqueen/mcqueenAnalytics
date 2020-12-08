@@ -5,7 +5,6 @@ sections:
     title: Features
     subtitle: ''
     align: center
-    image: images/logo.png
   - type: features_section
     features:
       - title: Feature 1
